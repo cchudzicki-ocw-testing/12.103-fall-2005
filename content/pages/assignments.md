@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: Assignments section contains group presentation and essays given by students.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
